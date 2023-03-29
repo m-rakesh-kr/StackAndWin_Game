@@ -13,4 +13,4 @@ https://www.canva.com/design/DAFUhaveCbA/Hn6KD4fB24qWS5r08kftVw/view?utm_content
 https://docs.google.com/presentation/d/160E-gcU6-WYedPWvmfd0iSDeP-f1AfEayX9Zdp_38vw/edit#slide=id.p
 
 ### This Game is deployed on IPFS you can redirect through below link:-
-https://ipfs.io/ipfs/QmPWBb9Lv8Q8dbUyD2JX5dnZzutQBDzywrRG7de8n2z8q9/html/index.html
+https://ipfs.io/ipfs/QmWCNELhXX9BbhWQqbW4tjGyzgKTk1AEZ5st4Lh3A2ttBt/html/index.html
